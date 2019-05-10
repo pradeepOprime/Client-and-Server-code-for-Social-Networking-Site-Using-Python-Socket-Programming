@@ -1,0 +1,332 @@
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRNME>Oprime<USRNME/>~~~~~~~~~ : at :: 2018-12-03 19:36:44.755195
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: USR_Valid : at :: 2018-12-03 19:36:44.755543
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRPSD>000<USRPSD/>~~~~~~~~~~~~ : at :: 2018-12-03 19:36:46.635066
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: Pass_Valid : at :: 2018-12-03 19:36:46.635388
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>SHOW_MY_WALL<USRCMD/>~~~ : at :: 2018-12-03 19:37:02.903270
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+||End OF WALL||
+ : at :: 2018-12-03 19:37:02.925684
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>SHOW_OTHER_WALL Oprime
+<USRCMD/>~~~~~~~~ : at :: 2018-12-03 19:37:22.289133
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+||End OF WALL||
+ : at :: 2018-12-03 19:37:22.307913
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD><PTOUSR>Oprime<PTOUSR/>[D|L]<PTOMSG>HI ME! ME here!!!<PTOMSG/><USRCMD/>~ : at :: 2018-12-03 19:37:54.943468
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+||Message Posted||
+ : at :: 2018-12-03 19:37:55.058459
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>SHOW_MY_WALL<USRCMD/>~~~ : at :: 2018-12-03 19:38:05.901813
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------------------------------------------------------					
+Post From: Oprime | T0: Oprime | Date: 2018-12-03 19:37:54.949950 |					
+Message  : HI ME! ME here!!! | 					
+------------------------------------------------------------------------
+
+||End OF WALL||
+ : at :: 2018-12-03 19:38:05.914269
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>LIST_USERS<USRCMD/>~~~~~ : at :: 2018-12-03 19:38:37.404866
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+------All Users-------
+1)      Oprime
+2)      Client001
+3)      Client002
+4)      Client003
+5)      Client004
+6)      Client005
+7)      Client006
+8)      Client007
+9)      Client008
+10)     Client009
+11)     Client010
+12)     Client011
+13)     Client012
+14)     Client013
+15)     Client014
+16)     Client015
+ : at :: 2018-12-03 19:38:37.439615
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 17)     Client016
+18)     Client017
+19)     Client018
+20)     Client019
+21)     Client020
+22)     
+----------------------
+||END OF LIST||
+ : at :: 2018-12-03 19:38:37.440523
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>LIST_USERS<USRCMD/>~~~~~ : at :: 2018-12-03 19:38:44.594192
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+------All Users-------
+1)      Oprime
+2)      Client001
+3)      Client002
+4)      Client003
+5)      Client004
+6)      Client005
+7)      Client006
+8)      Client007
+9)      Client008
+10)     Client009
+11)     Client010
+12)     Client011
+13)     Client012
+14)     Client013
+15)     Client014
+16)     Client015
+ : at :: 2018-12-03 19:38:44.611740
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 17)     Client016
+18)     Client017
+19)     Client018
+20)     Client019
+21)     Client020
+22)     
+----------------------
+||END OF LIST||
+ : at :: 2018-12-03 19:38:44.612841
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD><PTOUSR>rajamalk<PTOUSR/>[D|L]<PTOMSG>hello<PTOMSG/><USRCMD/>~~~~~~~~~~~ : at :: 2018-12-03 19:39:02.961914
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+||User Doesn't Exist||
+ : at :: 2018-12-03 19:39:02.969647
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRNME>Client006<USRNME/>~~~~~~ : at :: 2018-12-03 19:39:42.198220
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: USR_Valid : at :: 2018-12-03 19:39:42.199360
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRPSD>000<USRPSD/>~~~~~~~~~~~~ : at :: 2018-12-03 19:39:44.887977
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: Pass_Valid : at :: 2018-12-03 19:39:44.888917
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client002 | Date: 2018-12-03 07:05:10.889828  |					
+Message  : Hello User 2 | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:39:46.904737
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client003 | Date: 2018-12-04 07:05:10.889828  |					
+Message  : Hello and have a beautiful day | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:39:46.921369
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client020 | Date: 2018-12-03 16:32:19.454034 |					
+Message  : Hello 20 | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:39:46.926686
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client020 | Date: 2018-12-03 16:34:06.027061 |					
+Message  : Hello Again 20 | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:39:46.934770
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client014 | Date: 2018-12-03 16:35:44.559038 |					
+Message  : Hey Man!!! | 					
+------------------------------------------------------------------------
+------------------------||Notification||--------------------------------					
+Post From: Client020 | T0: Client018 | Date: 2018-12-03 17:21:17.498184 |					
+Message  : Hello MR eighteen | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:39:46.940833
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client015 | T0: Client020 | Date: 2018-12-03 17:34:37.067041 |					
+Message  : Hello from client fifteen | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:39:46.944660
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Oprime | T0: Client001 | Date: 2018-12-03 19:06:01.403267 |					
+Message  : whats up? | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:39:46.951360
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client016 | T0: Client016 | Date: 2018-12-03 19:08:40.594757 |					
+Message  : Hi,,,ME | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:39:46.953140
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Oprime | T0: Oprime | Date: 2018-12-03 19:37:54.949950 |					
+Message  : HI ME! ME here!!! | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:39:46.959761
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>SHOW_MY_WALL<USRCMD/>~~~ : at :: 2018-12-03 19:40:12.029763
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+||End OF WALL||
+ : at :: 2018-12-03 19:40:12.069754
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD><PTOUSR>Client007<PTOUSR/>[D|L]<PTOMSG>Hello Mr.bond<PTOMSG/><USRCMD/>~~ : at :: 2018-12-03 19:41:17.172776
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+||Message Posted||
+ : at :: 2018-12-03 19:41:17.234067
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client006 | T0: Client007 | Date: 2018-12-03 19:41:17.206290 |					
+Message  : Hello Mr.bond | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 19:41:17.252061
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD><PTOUSR>Client009<PTOUSR/>[D|L]<PTOMSG>Hello<PTOMSG/><USRCMD/>~~~~~~~~~~ : at :: 2018-12-03 20:01:12.243699
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+||Message Posted||
+ : at :: 2018-12-03 20:01:12.381352
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client006 | T0: Client009 | Date: 2018-12-03 20:01:12.265063 |					
+Message  : Hello | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:01:12.406297
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>LIST_USERS<USRCMD/>~~~~~ : at :: 2018-12-03 20:01:50.147726
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+------All Users-------
+1)      Oprime
+2)      Client001
+3)      Client002
+4)      Client003
+5)      Client004
+6)      Client005
+7)      Client006
+8)      Client007
+9)      Client008
+10)     Client009
+ : at :: 2018-12-03 20:01:50.177982
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 11)     Client010
+12)     Client011
+13)     Client012
+14)     Client013
+15)     Client014
+16)     Client015
+ : at :: 2018-12-03 20:01:50.189682
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 17)     Client016
+18)     Client017
+19)     Client018
+20)     Client019
+21)     Client020
+22)     
+----------------------
+||END OF LIST||
+ : at :: 2018-12-03 20:01:50.193849
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>LIST_USERS<USRCMD/>~~~~~ : at :: 2018-12-03 20:01:56.657550
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+------All Users-------
+1)      Oprime
+2)      Client001
+3)      Client002
+4)      Client003
+5)      Client004
+6)      Client005
+7)      Client006
+8)      Client007
+9)      Client008
+10)     Client009
+11)     Client010
+12)     Client011
+13)     Client012
+14)     Client013
+15)     Client014
+16)     Client015
+ : at :: 2018-12-03 20:01:56.705882
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 17)     Client016
+18)     Client017
+19)     Client018
+20)     Client019
+21)     Client020
+22)     
+----------------------
+||END OF LIST||
+ : at :: 2018-12-03 20:01:56.706795
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>SHOW_OTHER_WALL Oprime
+<USRCMD/>~~~~~~~~ : at :: 2018-12-03 20:03:04.552893
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------------------------------------------------------					
+Post From: Oprime | T0: Oprime | Date: 2018-12-03 19:37:54.949950 |					
+Message  : HI ME! ME here!!! | 					
+------------------------------------------------------------------------
+
+||End OF WALL||
+ : at :: 2018-12-03 20:03:04.561600
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD><PTOUSR>Oprime<PTOUSR/>[D|L]<PTOMSG>AutoBots TransForm and Reload!!<PTOMSG/><USRCMD/>~~~ : at :: 2018-12-03 20:03:52.818156
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+||Message Posted||
+ : at :: 2018-12-03 20:03:52.981947
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client006 | T0: Oprime | Date: 2018-12-03 20:03:52.846000 |					
+Message  : AutoBots TransForm and Reload!! | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:03:53.012764
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD><PTOUSR>Client013<PTOUSR/>[D|L]<PTOMSG>HELLo 13, hows life?<PTOMSG/><USRCMD/>~~~~~~~~~~~ : at :: 2018-12-03 20:11:55.656151
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: 
+||Message Posted||
+ : at :: 2018-12-03 20:11:55.701924
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client006 | T0: Client013 | Date: 2018-12-03 20:11:55.662584 |					
+Message  : HELLo 13, hows life? | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:11:55.715667
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRNME>Client014<USRNME/>~~~~~~ : at :: 2018-12-03 20:18:21.492652
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: USR_Valid : at :: 2018-12-03 20:18:21.505130
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRPSD>000<USRPSD/>~~~~~~~~~~~~ : at :: 2018-12-03 20:18:23.654824
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: Pass_Valid : at :: 2018-12-03 20:18:23.655740
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client002 | Date: 2018-12-03 07:05:10.889828  |					
+Message  : Hello User 2 | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.671327
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client003 | Date: 2018-12-04 07:05:10.889828  |					
+Message  : Hello and have a beautiful day | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.778961
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client020 | Date: 2018-12-03 16:32:19.454034 |					
+Message  : Hello 20 | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.787016
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client020 | Date: 2018-12-03 16:34:06.027061 |					
+Message  : Hello Again 20 | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.790595
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client001 | T0: Client014 | Date: 2018-12-03 16:35:44.559038 |					
+Message  : Hey Man!!! | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.793289
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client020 | T0: Client018 | Date: 2018-12-03 17:21:17.498184 |					
+Message  : Hello MR eighteen | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.799228
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client015 | T0: Client020 | Date: 2018-12-03 17:34:37.067041 |					
+Message  : Hello from client fifteen | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.804210
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Oprime | T0: Client001 | Date: 2018-12-03 19:06:01.403267 |					
+Message  : whats up? | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.809684
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client016 | T0: Client016 | Date: 2018-12-03 19:08:40.594757 |					
+Message  : Hi,,,ME | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.813594
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Oprime | T0: Oprime | Date: 2018-12-03 19:37:54.949950 |					
+Message  : HI ME! ME here!!! | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.821222
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client006 | T0: Client007 | Date: 2018-12-03 19:41:17.206290 |					
+Message  : Hello Mr.bond | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.823209
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client006 | T0: Client009 | Date: 2018-12-03 20:01:12.265063 |					
+Message  : Hello | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.829032
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------||Notification||--------------------------------					
+Post From: Client006 | T0: Oprime | Date: 2018-12-03 20:03:52.846000 |					
+Message  : AutoBots TransForm and Reload!! | 					
+------------------------------------------------------------------------
+------------------------||Notification||--------------------------------					
+Post From: Client006 | T0: Client013 | Date: 2018-12-03 20:11:55.662584 |					
+Message  : HELLo 13, hows life? | 					
+------------------------------------------------------------------------
+ : at :: 2018-12-03 20:18:25.834896
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>SHOW_MY_WALL<USRCMD/>~~~ : at :: 2018-12-03 20:18:58.018357
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Ecxrupted Request|| 		request:: ------------------------------------------------------------------------					
+Post From: Client001 | T0: Client014 | Date: 2018-12-03 16:35:44.559038 |					
+Message  : Hey Man!!! | 					
+------------------------------------------------------------------------
+
+||End OF WALL||
+ : at :: 2018-12-03 20:18:58.073960
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>EXIT<USRCMD/>~~~~~~~~~~~ : at :: 2018-12-03 20:19:22.585286
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>EXIT<USRCMD/>~~~~~~~~~~~ : at :: 2018-12-03 20:19:31.628373
+Reequest Log server::||FROM|| KNOWN_CLIENT || ::Type|| Encrypted Response|| 		request:: <USRCMD>EXIT<USRCMD/>~~~~~~~~~~~ : at :: 2018-12-03 20:19:44.718486
